@@ -1,0 +1,24 @@
+{
+  "name": "RR",
+  "version": "1.0.0",
+  "description": "require render",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxx929/RR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxx929/RR/issues"
+  },
+  "homepage": "https://github.com/lxx929/RR#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
